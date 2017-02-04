@@ -4,7 +4,7 @@ I encounterd this google foobar challenge when I was trying to search some algor
 
 For **FUN** and **EDUCATION** only.
 
-<img src="/images/google-foobar2.gif" width="500" />
+<img src="google-foobar.gif" width="500" />
 
 Message after finish:
 
