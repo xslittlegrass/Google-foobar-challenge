@@ -2,3 +2,19 @@
 
 I encounterd this google foobar challenge when I was trying to search some algorithm questions on the web.
 
+For **FUN** and **EDUCATION** only.
+
+<img src="/images/google-foobar2.gif" width="500" />
+
+Message after finish:
+
+```
+{
+'success' : 'great', 
+'colleague' : 'esteemed', 
+'efforts' : 'incredible', 
+'achievement' : 'unlocked', 
+'rabbits' : 'safe', 
+'foo' : 'win!'
+}
+```
